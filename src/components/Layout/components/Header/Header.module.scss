@@ -24,6 +24,13 @@
     width: 361px;
 }
 
+.search-title {
+    font-size: 1.4rem;
+    font-weight: 600;
+    padding: 5px 12px;
+    color: rgba(22, 24, 35, 0.5);
+}
+
 .search {
     position: relative;
     display: flex;
@@ -88,9 +95,9 @@
     }
 }
 
-.search-title {
-    font-size: 1.4rem;
-    font-weight: 600;
-    padding: 5px 12px;
-    color: rgba(22, 24, 35, 0.5);
+.more-btn {
+    font-size: 2rem;
+    margin-left: 28px;
+    padding: 4px 8px;
+    background-color: transparent;
 }
